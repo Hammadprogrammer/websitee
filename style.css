@@ -1,0 +1,609 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}.containerfuild {
+    background-color: rgb(51, 8, 90);
+}
+.containerfuild:hower{
+    background-color:rgb(158, 136, 179) ;
+}
+.sh{
+    border-radius: 20px;
+ width: 300px;
+ height: 40px;
+ background-color: rgb(255, 255, 255);
+ color: white;
+
+ border: solid rgb(51, 8, 90);
+ 
+ 
+}
+.p{
+   text-align: center;
+    margin-top: 100px;
+}
+ 
+.pp{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+      
+.img1{
+  
+    border: solid black;
+    border-radius: 60px;
+    width: 120px;
+    height: 120px; 
+  
+
+}
+.img2{
+  
+  
+    border-radius: 60px;
+    width: 120px;
+    height: 120px; 
+  
+
+}
+.img3{
+  background-color: black;
+    border: solid black;
+    border-radius: 60px;
+    width: 120px;
+    height: 120px; 
+  
+
+}
+.img4{
+    background-color: rgb(138, 26, 26);
+      border: solid rgb(138, 26, 26);
+      border-radius: 60px;
+      width: 120px;
+      height: 120px; 
+    }
+    .img5{ 
+        background-color: black;
+    border: solid black;
+    border-radius: 60px;
+    width: 120px;
+    height: 120px; 
+  
+        }
+        .img6{ 
+            background-color: rgb(238, 236, 236);
+        border: solid rgb(238, 236, 236);
+        border-radius: 60px;
+        width: 120px;
+        height: 120px;       
+            }
+            .img7{ 
+                background-color: rgb(223, 25, 25);
+            border: solid rgb(223, 25, 25);
+            border-radius: 60px;
+            width: 120px;
+            height: 120px;       
+                }
+                .img8{ 
+                    background-color: rgb(255, 255, 255);
+                border: solid rgb(0, 0, 0);
+                border-radius: 60px;
+                width: 120px;
+                height: 120px;       
+                    }
+                    h5{
+                        text-align: center;
+                    }
+                   .s5{
+                    background-color: blueviolet;
+                    width: 100%;
+                    height: 80px;                  
+            
+                margin-top: 50px;
+                   }
+                   @media only screen and (max-width:600px){
+                  
+                    .s5{
+                     flex-wrap: wrap;
+                    height: 50px;
+                    }
+                 }
+
+                   .back{
+                    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                    margin-top: 100px;
+                    margin-left: 100px;
+                   }
+                   .card{
+               
+                    margin-top: 20px;                   
+                   }
+                   .bag{
+                    background-color: rgb(221, 231, 235);
+                    width: 89%;
+                    height: 750px;
+                    margin-left: 90px;
+                    margin-top: 50px;
+                   }
+                   .the{
+                    text-align: center;
+                padding-top: 50px;
+                font-weight: bolder;
+                color: rgb(109, 28, 184);
+                   }
+                   
+                   .st6{
+                    width: 60%;
+                    height: 500px;
+                    border-radius: 50px;
+                    margin-left: 20px;
+                   }
+                   .deal{
+                    margin-left: 20px;
+                    margin-top: 30px;
+                   }
+                   .save{
+                    margin-top: 20px;
+                   position: absolute;
+                   left: 250px;
+                   font-weight: bold;
+                   text-transform: uppercase;                
+
+                   }
+                   .s10{
+                    margin-top: 50px;
+                    position: absolute;
+                    left: 250px;
+                    font-weight: bold;
+                    text-transform: capitalize;  
+                   }
+
+                   .s11{
+                    margin-top: 90px;
+                    position: absolute;
+                    left: 250px;                                  
+                   }
+                   .top{
+                    margin-top: 50px;
+                    margin-left: 100px;
+                   }
+                  .s20{
+margin-left: 100px;
+margin-top: 100px;
+font-size: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+                  }
+                  .hr{
+                    width: 88%;
+                    margin-left: 100px;
+                    margin-top: 30px;
+                  }
+                  .s21{
+                    margin-left: 100px;
+                    margin-top: 50px;
+                    font-size: 20px;
+                    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+                    .r{
+                        margin-left: 100px;
+                        margin-top: 80px;
+                    }
+                    .h{
+                        color: blueviolet;
+                    }
+                  
+
+.footer{
+    width: 100%;
+    height: 570px;
+    background-color: rgb(96, 19, 168);
+    margin-top: 100px;
+}
+.ret{
+    text-transform: uppercase;
+    color: rgb(67, 3, 128);
+    font-size: 200px;
+    margin-left: 50px;
+    font-family: "Ga Maamli", sans-serif;
+    font-weight: 400; 
+}
+.your{
+    text-transform: uppercase;
+    color: rgb(67, 3, 128);
+    margin-left: 50px;
+    margin-top: 70px;
+    font-weight: bolder;
+}
+.end{
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: normal;
+ 
+}
+.end:hover{
+    text-decoration: underline;
+}
+
+.s22{
+    color: white;
+ 
+    font-size: 15px;
+    font-weight: normal;
+}
+.s23{
+    color: white;
+ 
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.s24{
+    text-decoration: underline;
+    font-size: 15px;
+    font-weight: normal;
+}
+.s25{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 50px;
+  
+  
+}
+.s26{
+    margin-left: 20px;
+}
+
+
+.s27{
+   position: relative;
+   right: 144px;
+}
+.s28{
+    font-size: 10px;
+    color: white;
+   
+    margin-top: 30px;
+}
+
+.s30{
+
+ color: white; 
+ font-size: 10px;
+}
+.s31{
+  
+    color: white; 
+    font-size: 10px;
+   }
+   .s32{
+   
+    color: white; 
+    font-size: 10px;
+   }
+   .s33{
+ 
+    color: white; 
+    font-size: 10px;
+   }
+   .s34{
+  
+    color: white; 
+    font-size: 10px;
+   }
+   .s35{
+ 
+    color: white; 
+    font-size: 10px;
+   }
+   .s36{
+   
+    color: white; 
+    font-size: 10px;
+   }
+   .s30:hover{
+    text-decoration: underline;
+   }
+   .s31:hover{
+    text-decoration: underline;
+   }
+   .s32:hover{
+    text-decoration: underline;
+   }
+   .s33:hover{
+    text-decoration: underline;
+   }
+   .s34:hover{
+    text-decoration: underline;
+   }
+   .s35:hover{
+    text-decoration: underline;
+   }
+   .s36:hover{
+    text-decoration: underline;
+   }
+
+   .icon{
+    color: white;
+    width: 25px;
+    height: 25px;
+    margin-left: 110px;
+   
+   
+   }
+   .icon2{
+    color: white;
+    width: 25px;
+    height: 25px;
+    margin-left: 30px;   
+   
+   }
+   .icon3{
+    color: white;
+    width: 25px;
+    height: 25px;
+    margin-left: 30px;
+   
+   
+   }
+   .icon4{
+    color: white;
+    width: 25px;
+    height: 25px;
+    margin-left: 30px;
+   
+   
+   }
+   .plus{
+    width: 25px;
+    height: 25px;
+    margin-top: 100px;
+    margin-left: 1120px;
+   }
+   .plus2{
+    width: 25px;
+    height: 25px;
+    margin-left: 1170px;
+    margin-top: 50px;
+   }
+   /* #carouselExampleCaptions{
+    width: 1200px;
+  margin-left: 190px;
+   } */
+.circle{
+    border: solid black;
+    width: 140px;
+    height: 140px;
+    border-radius: 70px;
+ 
+    margin-top: 40px;
+     
+}
+.s{
+display: flex;
+justify-content:space-evenly;
+
+}
+
+@media only screen and (max-width:600px){
+   .s{
+    flex-wrap: wrap;
+   }
+}
+
+.off{
+   margin-top: 60px;
+   margin-left: 20px;   
+
+}
+/* @media only screen and (max-width:600px){
+    .br{
+        width: 300px;
+    }
+    .cardbr{
+     flex-wrap: wrap;
+    }
+    .bbr{
+       max-width: 100px;
+    }
+ } */
+
+ @media only screen and (max-width:600px){
+    
+    .card1{
+     flex-wrap: wrap;
+
+    }
+ }
+
+ @media only screen and (max-width:600px){
+    
+    .card3{
+     flex-wrap: wrap;
+
+    }
+ }
+
+ 
+ @media only screen and (max-width:900px){
+    
+    .s20{
+     flex-wrap: wrap;
+     font-size: 15px;
+
+    }
+    .hr{
+        width: 350px;
+    }
+ }
+ @media only screen and (max-width:900px){
+    
+    .s21{
+     
+     font-size: px;
+
+    }
+    .hr{
+        width: 350px;
+    }
+    .r{
+        font-size: 7px;
+    }
+ }
+
+ @media only screen and (max-width:900px){
+    
+    .ret{
+     flex-wrap: wrap;
+     font-size: 30px;
+     margin-top: 40px;
+
+    }
+    .your{
+        font-size: 15px;
+        position: relative;bottom: 20px;
+    }
+ }
+
+ @media only screen and (max-width:900px){
+    
+    .end{
+     
+     font-size: 7px;
+     margin-left: 30px;
+     
+   
+    }
+    .s22{
+        flex-wrap: wrap;
+      
+        font-size: 7px;
+     margin-left: 30px;
+    }
+    .s23{
+        flex-wrap: wrap;
+      
+        font-size: 7px;
+     margin-left: 30px;
+    }
+    .s24{
+        flex-wrap: wrap;
+      
+        font-size: 7px;
+    
+     
+    }
+    .s25{
+       
+      margin-left: 30px;
+        width: 40px;
+        height: 40px;
+    
+     
+    }
+    .s26{
+       
+     
+          width: 40px;
+          height: 40px;
+          position: relative;
+          right:   15px;
+         
+      
+       
+      }
+      .s27{
+       
+      
+          width: 40px;
+          height: 40px;
+          position: absolute;
+          right:     10px;
+      
+       
+      }
+      .s30{
+        width: 40px;
+        height: 40px;
+        position: absolute;
+      
+      }
+      .icon{
+width: 30px;
+height:30px;
+position: relative;
+right: 100px;
+      }
+      .icon2{
+        width: 30px;
+        height: 30px;
+        position: relative;
+        right: 100px;
+              }
+              .icon3{
+                width: 30px;
+                height: 30px;
+                position: relative;
+                right: 100px;
+                      }
+                      .icon4{
+                        width: 30px;
+                        height: 30px;
+                        position: relative;
+                        right: 100px;
+                              }
+                              .s30{
+                                position: absolute;
+                                left: 10px;
+                                margin-top: 80px;
+                              }
+                              .s31{
+                                position: absolute;
+                                left: 80px;
+                                margin-top: 80px;
+                              }
+                              .s32{
+                                position: absolute;
+                                left: 140px;
+                                margin-top: 80px;
+                              }
+                              .s33{
+                                position: absolute;
+                                left: 200px;
+                                margin-top: 80px;
+                              }
+                              .s34{
+                                position: absolute;
+                                left: 10px;
+                                margin-top: 120px;
+                              }
+                              .s35{
+                                position: absolute;
+                                left: 200px;
+                                margin-top: 120px;
+                              }
+                              .s36{
+                                position: absolute;
+                                left: 280px;
+                                margin-top: 120px;
+                              }
+                           
+                              .s28{
+                                position: absolute;
+                                left: 10px;
+                                margin-top: 150px;
+                              }
+                              .sh{
+                                width: 200px;
+                              }
+                              .btn{
+                                width: 100px;
+                                height: 50px;
+                              }
+ 
+   
+ }
+
+
+
+
